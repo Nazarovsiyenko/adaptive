@@ -214,7 +214,8 @@ body{
 .health{
     background: url(.//img/b2.png);
     height: 490px;
-    background-size: contain;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .health__text{
