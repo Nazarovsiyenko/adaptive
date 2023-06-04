@@ -278,13 +278,14 @@ body{
 .product__text{
     margin-left: 42px;
 }
-.product__img{
-    max-width: 100%;
+.product__img img{
+    width: 100%;
 }
 @media (max-width:1200px ){
     .product{
         flex-direction: column;
         margin-left: 0;
+
     }
     
 }
